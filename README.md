@@ -1,8 +1,11 @@
 ### Becca Robins - Content Program Manager @ Microsoft
 
-Hi there 👋, I'm Becca.
+Hi there 👋, I'm Becca. I'm a Brooklyn-based.
 
+<img align="left" width="100" height="100" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
+<!--
 ![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.png)
+-->
 
 - 🔭 I’m currently working on: getting an MBA!
 - 🌱 I’m currently learning: American Sign Language
@@ -23,5 +26,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I've lived in 3 countries and 4 states
 -->
