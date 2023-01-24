@@ -7,11 +7,11 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based.
 ![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.png)
 -->
 
-🔭 I’m currently working on: getting an MBA!
-🌱 I’m currently learning: American Sign Language
-💬 Ask me about: content, accessibility, and learning
-📫 How to reach me: [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/)
-😄 Pronouns: She/Her
+🔭 I’m currently working on: getting an MBA! <br>
+🌱 I’m currently learning: American Sign Language <br>
+💬 Ask me about: content, accessibility, and learning <br>
+📫 How to reach me: [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
+😄 Pronouns: She/Her <br>
 ⚡ Fun fact: I've lived in 3 countries and 4 states
 
 <!--
