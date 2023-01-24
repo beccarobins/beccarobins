@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.jpg)
+
 <!--
 **beccarobins/beccarobins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
