@@ -2,7 +2,7 @@
 
 Hi there 👋, I'm Becca. I'm a Brooklyn-based.
 
-<img align="left" width="300" height="300" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
+<img align="left" width="400" height="300" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
 <!--
 ![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.png)
 -->
