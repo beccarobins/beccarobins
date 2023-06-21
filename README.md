@@ -1,13 +1,13 @@
 ### Becca Robins
 
-Hi there 👋, I'm Becca. I'm a Brooklyn-based Content Program Manager @ Microsoft. I help build Microsoft 365 training content in the Security, Compliance, and Management space on Microsoft Learn. Previously, I worked at DataCamp, where I helped develop data science courses focused on Python, R, SQL, and Google Sheets. My favorite part of working in online education is creating accessible content that helps build a more equitable world.
+Hi there 👋, I'm Becca. I'm a Brooklyn-based Product Manager @ Microsoft. I help build data and reporting products that support Microsoft's end user and commercial content platforms. Previously, I worked at DataCamp, where I helped develop data science courses focused on Python, R, SQL, and Google Sheets. My favorite part of working in online education is creating accessible content that helps build a more equitable world.
 
 <img align="left" width="500" height="400" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
 <!--
 ![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.png)
 -->
 
-🔭 **I'm currently working on:** getting an MBA! <br>
+🔭 **I'm currently working on:** Shipping a new dashboard <br>
 🌱 **I'm currently learning:** American Sign Language <br>
 💬 **Ask me about:** content, accessibility, and learning <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
