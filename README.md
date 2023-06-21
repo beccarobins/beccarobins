@@ -1,6 +1,6 @@
 ### Becca Robins
 
-Hi there 👋, I'm Becca. I'm a Brooklyn-based Product Manager @ Microsoft. I help build data and reporting products that support Microsoft's end user and commercial content platforms. Previously, I worked at DataCamp, where I helped develop data science courses focused on Python, R, SQL, and Google Sheets. My favorite part of working in online education is creating accessible content that helps build a more equitable world.
+Hi there 👋, I'm Becca. I'm a Brooklyn-based Product Manager @ Microsoft. I help build data and reporting products that support Microsoft's end user and commercial content platforms. Previously, I worked at DataCamp, where I helped develop data science courses focused on Python, R, SQL, and Google Sheets.
 
 <img align="left" width="500" height="400" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
 <!--
