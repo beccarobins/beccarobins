@@ -7,7 +7,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Product Manager @ Microsoft. I he
 ![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.png)
 -->
 
-🔭 **I'm currently working on:** Shipping a new dashboard <br>
+🔭 **I recently finished:** an Executive MBA <br>
 🌱 **I'm currently learning:** American Sign Language <br>
 💬 **Ask me about:** content, accessibility, and learning <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
