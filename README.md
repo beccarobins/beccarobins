@@ -8,7 +8,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Product Manager @ Microsoft. I he
 -->
 
 🔭 **I recently finished:** an Executive MBA <br>
-🌱 **I'm currently learning:** American Sign Language <br>
+🌱 **I'm currently learning:** PowerShell <br>
 💬 **Ask me about:** content, accessibility, and learning <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
 😄 **Pronouns:** She/Her <br>
