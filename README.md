@@ -14,7 +14,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Content Professional @ Microsoft.
 😄 **Pronouns:** She/Her <br>
 ⚡ **Fun fact:** I've lived in 3 countries and 4 states
 
-I also have a blog built here in GitHub, which you can read here: [Content&mdash;Technically](https://beccarobins.github.io)
+I also have a blog built in GitHub, which you can read here: [Content&mdash;Technically](https://beccarobins.github.io)
 <!--
 **beccarobins/beccarobins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
