@@ -8,7 +8,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Content Professional @ Microsoft.
 -->
 
 🔭 **I recently finished:** an Executive MBA <br>
-🌱 **I'm currently learning:** PowerShell <br>
+🌱 **I'm currently learning:** Figma <br>
 💬 **Ask me about:** content, accessibility, and learning <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
 😄 **Pronouns:** She/Her <br>
