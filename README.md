@@ -15,7 +15,9 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Program Manager @ Microsoft. I he
 ⚡ **Fun fact:** I've lived in 3 countries and 4 states
 
 I also have a blog built in GitHub, which you can read here: [Content&mdash;Technically](https://beccarobins.github.io)
-
+<br>
+<br>
+<br>
 
 
 Below are some commits from repos hosted outside GitHub.
