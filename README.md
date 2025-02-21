@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-
+<img align="center" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2024.png.png">
 ![Becca's commits in Azure hosted repos in 2024](Commits in Azure repos - 2024.png)
 ![Becca's commits in Azure hosted repos in 2025](Commits in Azure repos - 2025.png)
