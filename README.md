@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-<img align="center" width="600" height="200" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2024.png">
+<img align="center" width="1000" height="200" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2024.png">
 
 <!--
 <img align="left" width="500" height="400" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
