@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-<img align="center" width="600" height="200" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2024.png.png">
-![Becca's commits in Azure hosted repos in 2024](Commits in Azure repos - 2024.png)
-![Becca's commits in Azure hosted repos in 2025](Commits in Azure repos - 2025.png)
+<img align="center" width="600" height="200" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2024.png">
+
+<!--
+<img align="left" width="500" height="400" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
+![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.png)
+-->
