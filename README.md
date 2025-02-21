@@ -15,6 +15,10 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Program Manager @ Microsoft. I he
 ⚡ **Fun fact:** I've lived in 3 countries and 4 states
 
 I also have a blog built in GitHub, which you can read here: [Content&mdash;Technically](https://beccarobins.github.io)
+
+
+
+Below are some commits from repos hosted outside GitHub.
 <!--
 **beccarobins/beccarobins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +35,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" width="1000" height="200" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2024.png">
+<img align="center" width="1000" height="200" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2025.png">
 
 <!--
 <img align="left" width="500" height="400" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
