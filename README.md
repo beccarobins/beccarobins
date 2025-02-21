@@ -18,7 +18,9 @@ I also have a blog built in GitHub, which you can read here: [Content&mdash;Tech
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 
 Below are some commits from repos hosted outside GitHub.
 <!--
