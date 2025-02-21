@@ -22,7 +22,7 @@ I also have a blog built in GitHub, which you can read here: [Content&mdash;Tech
 <br>
 <br>
 
-Below are some commits from repos hosted outside GitHub.
+Below are contribution graphs from commits made in repos hosted outside GitHub.
 <!--
 **beccarobins/beccarobins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
