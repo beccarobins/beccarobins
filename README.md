@@ -16,11 +16,6 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Program Manager @ Microsoft. I he
 
 I also have a blog built in GitHub, which you can read here: [Content&mdash;Technically](https://beccarobins.github.io)
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 Below are contribution graphs from commits made in repos hosted outside GitHub.
 <!--
