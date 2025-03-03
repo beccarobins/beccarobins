@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-<img align="center" width="1000" height="200" src="https://raw.githubusercontent.com/beccarobins/work-tools/blob/main/SMC/Commits%20in%20Azure%20repos%20-%202024.png">
+<--<img align="center" width="1000" height="200" src="https://raw.githubusercontent.com/beccarobins/work-tools/blob/main/SMC/Commits%20in%20Azure%20repos%20-%202024.png">-->
+<img align="center" width="1000" height="200" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2024.png">
 <img align="center" width="1000" height="200" src="https://github.com/beccarobins/beccarobins/blob/main/Commits in Azure repos - 2025.png">
 
 <!--
