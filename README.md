@@ -8,7 +8,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Program Manager @ Microsoft. I he
 -->
 
 🔭 **I recently finished:** an Executive MBA <br>
-🌱 **I'm currently learning:** Adobe Illustrator <br>
+🌱 **I'm currently learning:** Power BI <br>
 💬 **Ask me about:** process improvement <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
 😄 **Pronouns:** She/Her <br>
