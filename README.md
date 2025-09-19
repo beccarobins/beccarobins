@@ -12,7 +12,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based Program Manager who focuses on te
 💬 **Ask me about:** process improvement <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
 😄 **Pronouns:** She/Her <br>
-⚡ **Fun fact:** I've lived in 3 countries and 4 states
+⚡ **Fun fact:** I'm a big theater nerd :performing_arts:
 
 I also have a blog built in GitHub, which you can read here: [Content&mdash;Technically](https://beccarobins.github.io)
 <br>
