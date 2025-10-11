@@ -8,7 +8,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based tech professional focused on data
 -->
 
 🔭 **I recently:** passed my PL-300 Power BI Data Analyst Associate certification <br>
-🌱 **I'm currently learning:** Tableau <br>
+🌱 **I'm currently learning:** computer vision <br>
 💬 **Ask me about:** process improvement <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
 😄 **Pronouns:** She/Her <br>
