@@ -17,7 +17,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based tech professional focused on data
 I also have a blog built in GitHub, which you can read here: [Content&mdash;Technically](https://beccarobins.github.io)
 <br>
 
-Below are contribution graphs from commits made in repos hosted outside GitHub.
+I spent a lot of time on projects hosted outside GitHub in 2024 and early 2025, so below is the "GitHub Contribution Chart" for the non-GitHub work I did during that time.
 <!--
 **beccarobins/beccarobins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
