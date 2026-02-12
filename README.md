@@ -1,6 +1,6 @@
 ### Becca Robins
 
-Hi there 👋, I'm Becca. I'm a Brooklyn-based tech professional focused on data and analytics. I've worked at Microsoft, where I helped build Power BI reports for internal customers and at DataCamp, where I helped develop data science courses focused on Python, R, SQL, and Google Sheets.
+Hi there 👋, I'm Becca. I'm a Brooklyn-based tech professional focused on data and analytics. I've worked at Microsoft, where I helped build Power BI reports for internal customers, and at DataCamp, where I helped develop data science courses focused on Python, R, SQL, and Google Sheets.
 
 <img align="left" width="500" height="400" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
 <!--
@@ -8,13 +8,13 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based tech professional focused on data
 -->
 
 🔭 **I recently:** passed my PL-300 Power BI Data Analyst Associate certification <br>
-🌱 **I'm currently learning:** computer vision <br>
+🌱 **I'm currently learning:** patience <br>
 💬 **Ask me about:** process improvement <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
 😄 **Pronouns:** She/Her <br>
 ⚡ **Fun fact:** I'm a big theater nerd :performing_arts:
 
-I also have a blog built in GitHub, which you can read here: [Content&mdash;Technically](https://beccarobins.github.io)
+I also have a blog built in GitHub, which you can read here: [Content&mdash; Technically](https://beccarobins.github.io)
 <br>
 
 I spent a lot of time on projects hosted outside GitHub in 2024 and early 2025, so below is the "GitHub Contribution Chart" for the non-GitHub work I did during that time.
