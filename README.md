@@ -1,8 +1,14 @@
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 ### Becca Robins
 
 Hi there 👋, I'm Becca. I'm a Brooklyn-based tech professional focused on data and analytics. I've worked at Microsoft, where I helped build Power BI reports for internal customers, and at DataCamp, where I helped develop data science courses focused on Python, R, SQL, and Google Sheets.
 
-<img align="left" width="500" height="400" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png">
+<img align="left" width="500" height="400" src="https://github.com/beccarobins/beccarobins/blob/main/becca_sumedh_instagram.png" class="responsive">
+
 <!--
 ![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.png)
 -->
