@@ -8,7 +8,7 @@ Hi there 👋, I'm Becca. I'm a Brooklyn-based tech professional focused on data
 ![Becca and her colleague, Sumedh, at DataCamp.](becca_sumedh_instagram.png)
 -->
 
-🔭 **I recently:** earned an MSc in Business Analytics <br>
+🔭 **I recently:** earned my PMP <br>
 🌱 **I'm currently learning:** patience <br>
 💬 **Ask me about:** process improvement <br>
 📫 **How to reach me:** [Becca Robins on LinkedIn](https://www.linkedin.com/in/beccarobins/) <br>
